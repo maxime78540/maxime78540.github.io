@@ -1,0 +1,37 @@
+h1 {
+    font-family: verdana;
+    font-size: 20px;
+    color: lightblue;
+     }
+
+h3 {
+    font-family: verdana;
+    font-size: 20px;
+    color: blue;
+    background: lightgrey;
+    text-align: center;
+     }
+
+body{
+    background: url("../img/animated_background.gif");
+    background-size: fit;
+}
+
+iframe{
+    text-align: center;
+
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+       }
+.button-width{
+        width: 400px;
+        height: 50px;
+        }
+
+.twitterwide{
+        width: 1000px;
+        height: 50px;
+        }
